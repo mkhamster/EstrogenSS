@@ -1,6 +1,4 @@
-print("Loaded")
 
-warn("This is a snapshot, do not expect this to be fully functional")
 --[[
 IronBrew:tm: obfuscation; Version 2.7.2
 ]]
